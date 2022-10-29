@@ -6,5 +6,5 @@
 </script>
 
 <button on:click={increment}>
-  count is {count}
+  Click to add sheep => {count} sheep
 </button>
