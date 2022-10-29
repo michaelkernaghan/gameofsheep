@@ -4,7 +4,7 @@
 
 <main>
   <div>
-    <img src="/GoS-transparent.png" width="300" alt="GoS Logo" />
+    <img src="GoS-transparent.png" width="300" alt="GoS Logo" />
   </div>
   <h1>Game of Sheep</h1>
 
