@@ -1,18 +1,27 @@
+
+
+
+
+<img src="https://i.imgur.com/EZtEDRI.png" width="200">
+
 # gameofsheep
 
-A game about sheep using Typescript and Svelte. This is a demo design of the game mechanics in anticipation of implementation in Tezos.
+A game about sheep using Typescript and Svelte. 
+
+*This is a demo design of the game mechanics in anticipation of implementation in Tezos*
+
 Built following instructions at:
   
+  - [Claude Bardes Svelte Tezos Template](https://github.com/claudebarde/svelte-tezos-template)
   - [svelte.dev/docs#getting-started](https://svelte.dev/docs#getting-started)
   - [Svelte's Make an App Tutorial](https://svelte.dev/tutorial/making-an-app)
   - [Creating a github pages site](https://docs.github.com/en/pages/)
+
   
 ## Run the game
-
 ```
 npm start
 ```
-
 ## Paddock Improvement
 Move your sheep through a series of improved pastures. Pay the costs of raising sheep for market. Make money from selling wool and use it to improve pasture.
 
@@ -58,3 +67,5 @@ There are six Stud Rams. Holders of a Stud Ram NFT will have a premium added to 
 
 ##### New Sheering Shed
 - A penalty proportional to your sheep holdings and obtained randomly from the Tucker Bag.
+
+This project is an *homage* to the board game [Squatter](https://squatter.com.au/), a game described on [Wikipedia]() as "number 8 in 14 justifiably forgotten Milton Bradley board games."  As such, this project and code may only be deployed on testnets and is never allowed to make any commercial profit in any way. As for HBO, 🤔
