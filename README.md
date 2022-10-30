@@ -12,11 +12,10 @@ A game about sheep using Typescript and Svelte.
 
 Built following instructions at:
   
+  - [Svelte Tutorial Basics](https://svelte.dev/tutorial/basics)
   - [Claude Bardes Svelte Tezos Template](https://github.com/claudebarde/svelte-tezos-template)
   - [svelte.dev/docs#getting-started](https://svelte.dev/docs#getting-started)
   - [Svelte's Make an App Tutorial](https://svelte.dev/tutorial/making-an-app)
-  - [Creating a github pages site](https://docs.github.com/en/pages/)
-
   
 ## Run the game
 ```
