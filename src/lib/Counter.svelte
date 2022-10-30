@@ -1,10 +1,18 @@
 <script>
-  let count = 0
-  const increment = () => {
-    count += 1
+  let count = 0;
+
+  $: if (count >= 16) {
+    alert("The pen is full");
+    count = 15;
   }
+
+  const increment = () => {
+    count += 1;
+  };
 </script>
 
 <button on:click={increment}>
-  Click to add sheep => {count} sheep
+  Click to buy a sheep => {count} sheep
 </button>
+<br><br>
+<strong>A pen holds 15 sheep</strong>
