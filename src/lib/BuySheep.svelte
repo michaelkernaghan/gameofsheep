@@ -14,5 +14,3 @@
 <button on:click={increment}>
   Click to buy a sheep => {count} sheep
 </button>
-<br><br>
-<strong>A pen holds 15 sheep</strong>
