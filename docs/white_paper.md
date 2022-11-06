@@ -183,7 +183,7 @@ To avoid the same sequence of events occurring in each game, the randomizer has 
 
 ## Mechanism Diagram
 
-![](https://i.imgur.com/CzM24on.png)
+![](https://i.imgur.com/r0zdAfM.png)
 
 
 # Social Media and Marketing PLan
