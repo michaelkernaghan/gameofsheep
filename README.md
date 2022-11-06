@@ -56,7 +56,7 @@ There are six Stud Rams. Holders of a Stud Ram NFT will have a premium added to 
    - Lachlan Lad
    - King of Warramboo
 
-### Liabilty NFTs
+### Liability NFTs
 
 #### Blowfly Wave
 - A penalty at Wool Sale for poor management, randomly obtained from the Tucker Bag. Can be burned before the penalty is applied if you first Jet Sheep.
