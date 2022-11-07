@@ -12,11 +12,10 @@ A game about sheep using Typescript and Svelte.
 
 Built following instructions at:
   
+  - [Svelte Tutorial Basics](https://svelte.dev/tutorial/basics)
   - [Claude Bardes Svelte Tezos Template](https://github.com/claudebarde/svelte-tezos-template)
   - [svelte.dev/docs#getting-started](https://svelte.dev/docs#getting-started)
   - [Svelte's Make an App Tutorial](https://svelte.dev/tutorial/making-an-app)
-  - [Creating a github pages site](https://docs.github.com/en/pages/)
-
   
 ## Run the game
 ```
@@ -57,7 +56,7 @@ There are six Stud Rams. Holders of a Stud Ram NFT will have a premium added to 
    - Lachlan Lad
    - King of Warramboo
 
-### Liabilty NFTs
+### Liability NFTs
 
 #### Blowfly Wave
 - A penalty at Wool Sale for poor management, randomly obtained from the Tucker Bag. Can be burned before the penalty is applied if you first Jet Sheep.
