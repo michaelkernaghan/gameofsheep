@@ -4,11 +4,13 @@
   import BuySheep from "./lib/BuySheep.svelte";
   import SellSheep from "./lib/SellSheep.svelte";
   import MoneyCounter from "./lib/MoneyCounter.svelte";
-    import RollDice from "./lib/RollDice.svelte";
+  import RollDice from "./lib/RollDice.svelte";
+  import { Body, classList, style } from "svelte-body";
 </script>
+
 <Body style="background-color: #15bd15;" />
 <main>
-<h1>Game of Sheep</h1>
+  <h1>Game of Sheep</h1>
 
   <Box>
     <div>
