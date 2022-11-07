@@ -145,12 +145,16 @@ The NFTs are obtained through random events within the game. They will be added 
 </div>
 
 ## Paddock Improvements
-Move your sheep through a series of improved pastures. Pay the costs of raising sheep for the market. Make money from selling wool and use it to improve pasture. A player may invest their sheep tokens into one of three 
-Liquidity pools:
+In the original game, pastures consisted of 5 paddocks and sheep were measured in pens of 200. While these partitions are abstracted away in the decentralized game, we may retain the terminology for explaining the game's rules.
 
-    - Natural Pasture LP
-    - Improve Pasture LP
-    - Irrigated Pasture LP
+Move your sheep through a series of improved pastures!
+Pay the costs of raising sheep for the market!
+Make money from selling wool and use it to improve pasture! 
+
+A player may invest their sheep tokens into one of three Liquidity pools:
+- Natural Pasture LP
+- Improve Pasture LP
+- Irrigated Pasture LP
 
 Transfer of sheep from a pool to a more advanced pool carries a fee and can only be conducted under conditions such as no drought, having provided liquidity in the prerequisite pool, and so forth.
 
