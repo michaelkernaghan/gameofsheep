@@ -185,6 +185,44 @@ To avoid the same sequence of events occurring in each game, the randomizer has 
 
 ![](https://i.imgur.com/r0zdAfM.png)
 
+### Events Schedule (Board Position)
+
+| Position                     | Event      | 
+|------------------------------|------------|
+| 0                            | Wool Sale  |
+| 4, 9, 11, 19, 24, 31, 35, 41 | Tucker Bag |
+| 3, 18, 26, 30, 39            | Stud Ram   |
+| 33                           | Stud Ram Dies|
+| 1, 12, 15, 17, 25, 28, 32, 36, 38, 42| Stock Sale|
+| 5                            | Bore Dries Up|
+| 2, 8, 13, 16, 23, 29, 40     | Penalties |
+| 10                           | Flood Damage|
+| 14                           | Poison Rabbits |
+| 17, 20, 21, 34               | Expenses|
+| 22, 43                       | Local Drought|
+| 27                           | Local Rain |
+
+## Tucker Bag Events
+- Grass Fires destroy Haystack and most of the Pasture Fodder. Half your - - You must pay $50 Income Tax for each Natural Pasture Paddock and $200 forT There is now a General Drought.
+ - You have won a Trophy for Champion Ram and recieve $400.
+ - Fire destroys Haystack and damges Out-Buildings at a cost of $500.
+ - You buy Fire Fighting Equipment for $150.
+ - You get an Insurance Policy for a Stud Ram. If the Stud Ram dies you get to Purchase a new shearing shed. $1,000 each if less than 15 pens, otherwise $2,000 each 
+ - By careful management you have eradicated Foot Rot. You are exempt from future treatment costs.
+ - As a result of severe Blowfly Wave, and your failure to take precautionary action your next Wool Cheque reduces by 10%. No loss if you land on "Jet Sheep" before your next Wool Cheque.
+ - If your property is not fully stocked, receive Agistment fees of $600.
+ - General rain breaks drought
+ - You are injured by Tractor as a result of carelessness.
+ - Severe infestation of Lucerne Flea and red Legged Earth Mite reduces carrying capacity by one third. Sell one third of stock to Bank for $500 per pen.
+ - Paddocks require spelling due to heavy sheep Worm infestation. Sell half of your stock at $500 per pen.
+ - You must pay $50 Income Tax for each Natural Pasture Paddock and $200 for each $1,000 Cash held, to nearest thousand.
+ - Successful lambing season due to good mangement - 120% Lambs. Receive additional 600 stock, i.e, 3 pens of sheep, or your property is already fully stocked, receive $1,200 instead.
+ - Receive $800 Compensation for State Highway put through your property.
+ - From sale of Fat Lambs receive $500.
+ - Wild Dogs kill many Sheep. If you own Stock, return 3 pens of Sheep to the Bank.
+ - You have won Soil Conservation Trophy - Receive $300.
+ - Good Autumn and Spring Rains. Have an additional Wool Sale. These rains break drought.
+ - You have increased the average Fleece weight by selective breeding and good mangement, Receive bonus of $1,000.
 
 # Social Media and Marketing PLan
 
