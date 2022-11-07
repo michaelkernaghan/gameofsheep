@@ -4,13 +4,17 @@ disqus: hackmd
 ---
 
 
-A Smart Contract Game About Sheep Farming
+A Smart Contract Testing Game About Sheep Farming
 ===
+Move your sheep through a series of improved pastures!
+Pay the costs of raising sheep for the market!
+Make money from selling wool and use it to improve pasture! 
+
 Many games employ a simple ledger mechanic to track credits and benefits that accrue to the players as they execute turns and undergo events. The ledger mechanic lends itself easily to the blockchain, and the cryptographic security afforded by the blockchain allows games to craft shared objects of value that players can own and trade. Game of Sheep is built around a decentralized ledger. The sheep in the game are tokenized, allowing the game to include tokenomics around NFTs.
 
-Game of Sheep is an homage to the board game Squatter, a game described on Wikipedia as “number 8 in 14 justifiably forgotten Milton Bradley board games.” As such, this project and code may only be deployed on testnets and are never allowed to make any commercial profit. As for HBO, 🤔
+Game of Sheep is an homage to the board game Squatter, a game described on Wikipedia as “number 8 in 14 justifiably forgotten Milton Bradley board games.” As such, this project and code may only be deployed on testnets and are never allowed to make any commercial profit. The game and the design effort to create the game are test data. They are an acceptance test for smart contract dapp development on the Tezos Block chain. 
 
-A game about sheep using Tezos, Typescript and Svelte.
+A game about sheep using Tezos, Taqueria, Typescript and Svelte.
 
 # Table of Contents
 
@@ -145,30 +149,21 @@ The NFTs are obtained through random events within the game. They will be added 
 </div>
 
 ## Paddock Improvements
-In the original game, pastures consisted of 5 paddocks and sheep were measured in pens of 200. While these partitions are abstracted away in the decentralized game, we may retain the terminology for explaining the game's rules.
+In the original game, pastures consisted of 5 paddocks and sheep were measured in pens of 200. 
+The limit on a Stock Sale is 15 pens, or 3k sheep. A natural pasture paddock can hold 3 pens, an improved pasture paddock can hold 5 pens, and an irrigated pasture paddock can hold 6 pens.
 
-Move your sheep through a series of improved pastures!
-Pay the costs of raising sheep for the market!
-Make money from selling wool and use it to improve pasture! 
+A game turn has two phases. 
 
-A player may invest their sheep tokens into one of three Liquidity pools:
-- Natural Pasture LP
-- Improve Pasture LP
-- Irrigated Pasture LP
+- First, the player decides on changes to their paddocks. Each of the 5 paddocks can be promoted from Natural Pasture
+to Improved Pasture and then to Irrigated Pasture. 
 
-Transfer of sheep from a pool to a more advanced pool carries a fee and can only be conducted under conditions such as no drought, having provided liquidity in the prerequisite pool, and so forth.
+- Second, the player "Rolls the Dice" and plays out whever events are imposed.
 
-When a player has added sheep and dollars to a given Paddock LP they get LP tokens for that pool which can be staked. To go from Natural Pasture to Improved Pasture a player must have enough Natural Pasture LP tokens staked. To move the sheep to the new pasture the Natural Pasture LP tokens are unstaked, the natural pasture LP sheep are removed from the pool and added to the Improved Pasture pool, where they can be staked for Improved Pasture LP tokens.
-
-Players start the game with 3000 sheep, which is also the maximum capacity for the Natural Pasture LP. Improved pasture has a capacity of 5000 sheep and irrigated pasture is 6000.
-
-If the player adds the 3000 initial sheep to the Natural Pasture LP they will get 15 Natural Pasture LP tokens.  These in turn can be added to the Improved pasture LP, given the game conditions at the time allow it, along with $2500, to earn Improved Pasture LP tokens. And similarly to get Irrigated Pasture, but adding $7500.
-
-The staked LP tokens are ultimately the victory condition for the game. A player wins the game when they have staked the LP tokens earned from having 6000 sheep in the Irrigated Pasture LP.
+A useful sequence of of play is to improve paddocks and then achieve a Stock Sale on the die roll.
 
 ## Stock Sales
 
-At intervals a player will have the opportunity to buy or sell sheep at market. 
+At intervals a player will have the opportunity to buy or sell sheep. 
 
 ## Wool Sales
 
