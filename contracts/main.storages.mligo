@@ -16,4 +16,5 @@ let init_storage: storage = {
     sheering_shed = (false : bool);
     paddock_improved = (false : bool);
     drought = (false : bool)
+    board_position = (0 : nat)
 }
