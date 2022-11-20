@@ -174,6 +174,10 @@ Once each game cycle a player has the opportunity to gain dollars from a Wool Sa
 Droughts, Plagues, Fires, Rabbits, all sorts of maintenance obligations and various anti-sheep phenomena impact cash flow and balances throughout the game. 
 
 # Mechanics
+
+## Storage
+The reason the game is adaptable to blockchain is the ledger. We will use FA2 as the contract standard. There will be both sheep and dollar tokens so a multi-asset FA2 contract is needed. We will start our development of this contract with Claude Barde's [How to Extend an Fa2 Contract in CameLigo](https://medium.com/coinmonks/how-to-extend-an-fa2-contract-in-cameligo-a673858cbe2b). Another excellent resource is Taquito's [FA2 Parameters](https://tezostaquito.io/docs/next/fa2_parameters/). As noted by Claude there is a fantastic set of contracts supported [OxheadAlpha](https://github.com/oxheadalpha/smart-contracts)
+
 ## Game Cycle
 The result of two rolled dice is added, and the player is advanced to the next event. For each mod 43, there is a Wool Sale. The events are various functions affecting the yields at Stock Sales or Wool Sales. Some game tokens and some game obligations will be handled with NFTs. There are asset NFTs and liability NFTs.
 
